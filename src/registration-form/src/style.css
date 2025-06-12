@@ -14,7 +14,6 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-image: url(./Background.jpg);
-    background-color: var(--background-color);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
